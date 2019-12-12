@@ -1,0 +1,26 @@
+My app as of now is called Growing Together. The app will be a portal
+where prospective clients can: 
+
+1) Identify local community gardens (api build) and 
+offer services as a volunteer, thus gaining gardening experience
+ and contributing to a gardening community.
+ 
+2) "Garden entities" can request "volunteers" to assist in 
+gardening workers, as volunteers. Also these entities may serve as a venue
+for different gardening education activities or event spaces. 
+
+3) Clients may offer materials("Materials Providers") such as compostable waste ie; 
+a local cafe, brewery,or farm or a lumber yard that may have useable lumber, et al. 
+
+Users(clients) can be more than one "Type of User". For example, a "Volunteer" 
+may also have materials to donate("Materials Provider"), or may actually be a 
+"Garden Entity" and may want to help another garden as a volunteer. 
+
+This is a preliminary outlook. As we move forward in this program, the
+app's functionality may be streamlined to be more simple in order to be an
+appropriate challenge for my skill level and time constraints. I do hope to one
+day, expand the features and deploy this app as an actual product geared to growing the 
+Organic gardening community hear in the Austin Metropolitan area. 
+
+
+Your observations and opinions as Scrum master is greatly appreciated.
